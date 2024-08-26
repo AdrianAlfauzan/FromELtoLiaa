@@ -23,7 +23,7 @@
 .flower-words h1,
 .flower-words p {
   overflow: hidden;
-  font-size: 34px;
+  font-size: 24px;
   white-space: nowrap;
   animation: typing 2s steps(40, end), blink-caret 0.5s step-end infinite;
 }
